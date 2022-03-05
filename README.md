@@ -24,8 +24,8 @@ into it in an interesting and simple way for the class.
 ## Stages of work
 ```mermaid
 graph LR
-    A1[Finding as much data as possible <br>about Jan Skrzetuski] --> B[Analysis and selection <br>of presentable data]
     A2[Creation of a Jan Skrzetuski <br>account on Reddit] --> C[Implementation of the selected data<br> according to the established criteria]
+    A1[Finding as much data as possible <br>about Jan Skrzetuski] --> B[Analysis and selection <br>of presentable data]
     B --> C
     A2 -.- |*requires|B
 ```
