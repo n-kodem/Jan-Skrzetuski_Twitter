@@ -27,5 +27,4 @@ graph LR
     A1[Znalezienie jak najwięcej ilości danych o Janie Skrzetuskim, utworzenie konta Jana Skrzetuskiego na platformie Reddit] --> B[Analiza wcześniej znalezionych informacji i selekcja tych nadających się do przedstawienia na lekcji Języka Polskiego, na wcześniej utworzonym koncie]
     A2[Square Rect] --> C[Implementacja wyselekcjonowanych danych zgodnie z kryteriami podanymi w podziale obowiązków]
     B --> C
-    B2 --> C
 ```
