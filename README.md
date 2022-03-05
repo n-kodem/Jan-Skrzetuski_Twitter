@@ -24,7 +24,7 @@ into it in an interesting and simple way for the class.
 ## Etapy pracy
 ```mermaid
 graph LR
-    A1[Znalezienie jak najwięcej ilości danych o Janie Skrzetuskim] --> B[Analiza danych i selekcja tych nadających się do przedstawienia]
-    A2[Utworzenie konta Jana Skrzetuskiego na platformie Reddit] --> C[Implementacja wyselekcjonowanych danych zgodnie z kryteriami]
+    A1[Finding as much data as possible about Jan Skrzetuski] --> B[Analysis and selection of presentable data]
+    A2[Utworzenie konta Jana Skrzetuskiego na platformie Reddit] --> C[Implementation of the selected data according to the established criteria]
     B --> C
 ```
