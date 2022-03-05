@@ -25,6 +25,6 @@ into it in an interesting and simple way for the class.
 ```mermaid
 graph LR
     A1[Finding as much data as possible about Jan Skrzetuski] --> B[Analysis and selection of presentable data]
-    A2[Utworzenie konta Jana Skrzetuskiego na platformie Reddit] --> C[Implementation of the selected data according to the established criteria]
+    A2[Creation of a Jan Skrzetuski account on Reddit] --> C[Implementation of the selected data according to the established criteria]
     B --> C
 ```
