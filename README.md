@@ -28,5 +28,4 @@ graph LR
     A1[Finding as much data as possible <br>about Jan Skrzetuski] --> B[Analysis and selection <br>of presentable data]
     B --> C
 
-[comment]: <> (    A2 -.- |*requires|B)
 ```
