@@ -21,7 +21,7 @@ suitable for an interesting presentation on "His" account on the Twitter platfor
 Creating a Twitter account and implementing the information found by the rest of the group 
 into it in an interesting and simple way for the class.
 
-## Etapy pracy
+## Stages of work
 ```mermaid
 graph LR
     A1[Finding as much data as possible about Jan Skrzetuski] --> B[Analysis and selection of presentable data]
