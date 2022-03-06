@@ -78,7 +78,7 @@ header#main-header div.side input {
 
 header#main-header div.side img {
   width: 34px;
-  border-radius: 50%;
+  border-radius: 9999999in;
   margin: 0 15px;
 }
 
@@ -193,7 +193,7 @@ div.wrapper-content aside.profile {
 div.wrapper-content aside.profile img.avatar {
   width: 200px;
   height: 200px;
-  border-radius: 50%;
+  border-radius: 9999999in;
   border: 5px solid #ffffff;
   margin-top: -170px;
 }
@@ -268,7 +268,7 @@ div.wrapper-content aside.profile .widget.followers ul li {
   width: 48px;
   height: 48px;
   background-color: #D0D5D9;
-  border-radius: 50%;
+  border-radius: 999999999in;
   flex-shrink: 0;
   margin-bottom: 5px;
 }
@@ -325,7 +325,7 @@ div.wrapper-content section.timeline ul.tweets li {
 div.wrapper-content section.timeline ul.tweets li img.avatar {
   width: 48px;
   height: 48px;
-  border-radius: 50%;
+  border-radius: 99999999in;
   margin-right: 10px;
 }
 
@@ -356,7 +356,7 @@ div.wrapper-content section.timeline ul.tweets li .tweet .info span::before {
   content: '';
   height: 2px;
   width: 2px;
-  border-radius: 50%;
+  border-radius: 9999999in;
   background-color: #8899A6;
   position: absolute;
   bottom: 6px;
@@ -444,7 +444,7 @@ div.wrapper-content aside.widgets .widget .title a::before {
   height: 2px;
   width: 2px;
   background: #292D32;
-  border-radius: 50%;
+  border-radius: 9999999in;
   position: absolute;
   top: 6px;
   left: 6px;
@@ -570,4 +570,19 @@ li>div>p>a{
   color: #3BB9E3;
   font-weight: bold;
   text-decoration: none;
+}
+div.wrapper-content aside.profile .widget.followers ul li img {
+  max-width: 48px;
+  min-width: 48px;
+  max-height: 48px;
+  min-height: 48px;
+  border-radius: inherit;
+}
+
+div.wrapper-content aside.profile .widget.media ul li img {
+  max-width: 82px;
+  min-width: 82px;
+  max-height: 82px;
+  min-height: 82px;
+  border-radius: inherit;
 }
