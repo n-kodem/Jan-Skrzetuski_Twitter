@@ -591,3 +591,7 @@ div.wrapper-content aside.profile .widget.media ul li img {
   min-height: 82px;
   border-radius: inherit;
 }
+
+body {
+  min-width: max-content;
+}
