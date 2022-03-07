@@ -101,6 +101,11 @@ div.banner {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-image: url("images/Przeprawa_Skrzetuskiego.jpg") !important;
+  background-size: cover !important;
+  background-position-y: 25%;
+  background-position-x: center;
+  background-repeat: no-repeat;
 }
 
 div.bar {
